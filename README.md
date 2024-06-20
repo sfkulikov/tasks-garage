@@ -1,2 +1,2 @@
 # tasks-garage
-YII2 test
+YII2 Framework test task
